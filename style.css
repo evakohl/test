@@ -1,11 +1,11 @@
 body {
-  background: #eeffee;
+  background: #eeeedd;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
       h1 {
-        color:#cc2222;
+        color:#222222;
       }
       img {width: 50%;}
